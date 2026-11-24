@@ -1,5 +1,8 @@
 # Vídeo 3D explicativo
 
+> **Este repositório mudou para o [kit-trafego-ia](https://github.com/MatheusSBPRO/kit-trafego-ia/tree/main/ferramentas/video-3d-explicativo).** A versão daqui continua funcionando, mas não recebe mais atualização. Correções, novidades, issues e PRs agora vão para [kit-trafego-ia/ferramentas/video-3d-explicativo](https://github.com/MatheusSBPRO/kit-trafego-ia/tree/main/ferramentas/video-3d-explicativo).
+
+
 Skill para **Claude Code** e **Codex** que transforma um roteiro em vídeo vertical 3D (1080x1920,
 30 a 60 s), no estilo animação de cidadezinha low poly: narração por IA, legenda palavra por palavra
 sincronizada com a voz, câmera que acompanha a fala, etiquetas, efeitos sonoros e marca d'água.
